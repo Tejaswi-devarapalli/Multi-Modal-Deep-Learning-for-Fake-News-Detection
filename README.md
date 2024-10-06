@@ -9,4 +9,5 @@ I used upto 10000 rows froms a large-scale multimodal fake news dataset consisti
 The goal of this project is to build a 2-way classification deep learning model with two inputs and one output using TensorFlow Functional API with.
 
 Dataset link:[https://github.com/entitize/Fakeddit]
-   
+
+Developed Multimodal models using self attention, cross attention, Co-attention mechanisms to analyze both images and text.
